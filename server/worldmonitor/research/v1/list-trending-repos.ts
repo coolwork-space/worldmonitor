@@ -24,7 +24,7 @@ const OSSINSIGHT_LANG: Record<string, string> = {
 };
 
 const OSSINSIGHT_PERIOD: Record<string, string> = {
-  daily: 'past_24_hours', weekly: 'past_7_days', monthly: 'past_28_days',
+  daily: 'past_24_hours', weekly: 'past_week', monthly: 'past_month',
 };
 
 // ---------- Fetch ----------
